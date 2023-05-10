@@ -1,3 +1,19 @@
+2018-01-19, Version 2.56.0
+==========================
+
+ * fix unauthorized fk change (#1540) (Taranveer Virk)
+
+ * drop support for node 0.10 / 0.12 (#1541) (Taranveer Virk)
+
+
+2017-09-26, Version 2.55.3
+==========================
+
+ * fix(model-builder): __data may be null. (#1415) (Samuel Reed)
+
+ * package: use qs@6.5.0 (#1470) (Kevin Delisle)
+
+
 2017-07-28, Version 2.55.2
 ==========================
 
