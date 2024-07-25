@@ -29,7 +29,7 @@
     "posttest": "npm run lint"
   },
   "engines": {
-    "node": ">= 0.6 <= 14"
+    "node": ">= 0.6"
   },
   "devDependencies": {
     "async-iterators": "^0.2.2",
@@ -48,7 +48,6 @@
     "lodash": "^4.17.20",
     "loopback-connector": "^2.1.0",
     "minimatch": "^3.0.3",
-    "mongodb": "^3.6.9",
     "qs": "^3.1.0",
     "shortid": "^2.2.6",
     "strong-globalize": "^2.6.2",
